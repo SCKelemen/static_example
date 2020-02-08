@@ -1,0 +1,11 @@
+/Users/Kelemen/Desktop/sample/bin/Debug/netcoreapp2.2/sample.deps.json
+/Users/Kelemen/Desktop/sample/bin/Debug/netcoreapp2.2/sample.runtimeconfig.json
+/Users/Kelemen/Desktop/sample/bin/Debug/netcoreapp2.2/sample.runtimeconfig.dev.json
+/Users/Kelemen/Desktop/sample/bin/Debug/netcoreapp2.2/sample.dll
+/Users/Kelemen/Desktop/sample/bin/Debug/netcoreapp2.2/sample.pdb
+/Users/Kelemen/Desktop/sample/obj/Debug/netcoreapp2.2/sample.csprojAssemblyReference.cache
+/Users/Kelemen/Desktop/sample/obj/Debug/netcoreapp2.2/sample.csproj.CoreCompileInputs.cache
+/Users/Kelemen/Desktop/sample/obj/Debug/netcoreapp2.2/sample.AssemblyInfoInputs.cache
+/Users/Kelemen/Desktop/sample/obj/Debug/netcoreapp2.2/sample.AssemblyInfo.cs
+/Users/Kelemen/Desktop/sample/obj/Debug/netcoreapp2.2/sample.dll
+/Users/Kelemen/Desktop/sample/obj/Debug/netcoreapp2.2/sample.pdb
